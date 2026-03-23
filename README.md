@@ -26,3 +26,24 @@ The website showcases and sells high-quality ethnic & Indo-Western outfits for w
 ---
 
 ## 📁 Repository Structure
+priyavar-ethnics/
+├── wp-content/
+│   ├── themes/priyavar-theme/          # Child theme (recommended)
+│   ├── plugins/                        # Custom plugins & WooCommerce addons
+│   └── uploads/                        # (gitignored - media)
+├── database/
+│   └── priyavar_2025.sql               # Full DB export
+├── backups/
+│   └── elementor-kits/                 # JSON templates
+├── screenshots/
+│   ├── homepage-hero.png
+│   ├── collections.png
+│   ├── about-us.png
+│   └── mobile-view.png
+├── docs/
+│   ├── client-brief.md
+│   ├── product-list.md
+│   └── seo-keywords.md
+├── .gitignore
+├── README.md
+└── LICENSE
