@@ -70,6 +70,4 @@ priyavar-ethnics/
 **All Rights Reserved © Priyavar 2025**  
 Private repository for development & maintenance only.
 
----
 
-**Made with ❤️ for Priyavar – Jaipur**
