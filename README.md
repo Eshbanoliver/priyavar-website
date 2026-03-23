@@ -47,3 +47,29 @@ priyavar-ethnics/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+
+---
+
+## 🚀 Local Setup Instructions
+
+1. Clone this repository
+2. Import `database/priyavar_2025.sql`
+3. Update `wp-config.php` with local DB credentials
+4. Copy `wp-content` folder
+5. Run on LocalWP / XAMPP / Laragon
+6. Visit `http://localhost/priyavar` and login
+
+---
+
+## 📸 Screenshots Folder
+(Add high-quality screenshots of hero, collections, product pages, mobile view)
+
+---
+
+## 📄 License
+**All Rights Reserved © Priyavar 2025**  
+Private repository for development & maintenance only.
+
+---
+
+**Made with ❤️ for Priyavar – Jaipur**
