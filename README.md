@@ -14,12 +14,6 @@ The website showcases and sells high-quality ethnic & Indo-Western outfits for w
 - Custom tailoring & 30-day exchange
 - “Luxury is not loud” philosophy
 
-### 📍 Store Address
-Shop No. 4, Tonk Road, Opp. FCI Godown,  
-Royal Nagar, Dev Nagar, Tonk Phatak, **Jaipur, Rajasthan**
-
-**WhatsApp**: +91 7976153368
-
 ---
 
 ## 🛠 Tech Stack
