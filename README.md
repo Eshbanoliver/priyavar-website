@@ -66,8 +66,5 @@ priyavar-ethnics/
 
 ---
 
-## 📄 License
-**All Rights Reserved © Priyavar 2025**  
-Private repository for development & maintenance only.
 
 
