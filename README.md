@@ -61,10 +61,7 @@ priyavar-ethnics/
 
 ---
 
-## 📸 Screenshots Folder
-(Add high-quality screenshots of hero, collections, product pages, mobile view)
 
----
 
 
 
